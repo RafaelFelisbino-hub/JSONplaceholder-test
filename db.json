@@ -1,0 +1,33 @@
+{
+    "alunos": [
+        {"id": 1, "nome": "Rafael", "turno": "Manhã","turma": "TII-2001-M", "idade": 24, "endereço": "Rua A"},
+        {"id": 2, "nome": "Rafaela", "turno": "Manhã","turma": "TII-2001-M", "idade": 18, "endereço": "Rua B"},
+        {"id": 3, "nome": "Luiz", "turno": "Manhã","turma": "TII-2001-M", "idade": 19, "endereço": "Rua C"},
+        {"id": 4, "nome": "Maria", "turno": "Manhã","turma": "TII-2001-M", "idade": 20, "endereço": "Rua D"},
+        {"id": 5, "nome": "José", "turno": "Manhã","turma": "TII-2001-M", "idade": 25, "endereço": "Rua E"},
+        {"id": 6, "nome": "Carlos", "turno": "Manhã","turma": "TII-2001-M", "idade": 26, "endereço": "Rua F"},
+        {"id": 7, "nome": "Jane", "turno": "Manhã","turma": "TII-2001-M", "idade": 18, "endereço": "Rua G"},
+        {"id": 8, "nome": "Linda", "turno": "Manhã","turma": "TII-2001-M", "idade": 18, "endereço": "Rua H"},
+        {"id": 9, "nome": "Paulo", "turno": "Manhã","turma": "TII-2001-M", "idade": 18, "endereço": "Rua L"},
+        {"id": 10, "nome": "Paula", "turno": "Tarde","turma": "TII-2001-T", "idade": 21, "endereço": "Rua M"},
+        {"id": 11, "nome": "Thales", "turno": "Tarde","turma": "TII-2001-T", "idade": 24, "endereço": "Rua N"},
+        {"id": 12, "nome": "Júlia", "turno": "Tarde","turma": "TII-2001-T", "idade": 19, "endereço": "Rua O"},
+        {"id": 13, "nome": "Mariana", "turno": "Tarde","turma": "TII-2001-T", "idade": 19, "endereço": "Rua P"},
+        {"id": 14, "nome": "Guilherme", "turno": "Tarde","turma": "TII-2001-T", "idade": 23, "endereço": "Rua Q"},
+        {"id": 15, "nome": "Gabriel", "turno": "Tarde","turma": "TII-2001-T", "idade": 27, "endereço": "Rua R"},
+        {"id": 16, "nome": "Daniel", "turno": "Tarde","turma": "TII-2001-T", "idade": 18, "endereço": "Rua S"},
+        {"id": 17, "nome": "Daniela", "turno": "Tarde","turma": "TII-2001-T", "idade": 19, "endereço": "Rua T"},
+        {"id": 18, "nome": "Lucas", "turno": "Tarde","turma": "TII-2001-T", "idade": 25, "endereço": "Rua U"},
+        {"id": 19, "nome": "Yasmin", "turno": "Tarde","turma": "TII-2001-T", "idade": 24, "endereço": "Rua V"},
+        {"id": 20, "nome": "Ayumi", "turno": "Tarde","turma": "TII-2001-T", "idade": 25, "endereço": "Rua W"},
+        {"id": 21, "nome": "Sun-Yo", "turno": "Tarde","turma": "TII-2001-T", "idade": 19, "endereço": "Rua X"}
+    ],
+    "professores": [
+        {"id": 1, "nome": "Rafael", "turno": "Manhã", "turma": "TII-2001-M", "registro": 1234},
+        {"id": 2, "nome": "Júlio", "turno": "Tarde", "turma": "TII-2001-T", "registro": 1243},
+        {"id": 3, "nome": "Rafaela", "turno": "Manhã e Tarde", "turma": "TII-2001-M/T", "registro": 1434}
+    ],
+    "escola": {
+        "nome": "Escola Alegria de Viver"
+    }
+}
